@@ -1,4 +1,5 @@
 # eCommerce Customer Behavior Analysis
+[![PDF of Full Analysis](https://via.placeholder.com/150)](https://github.com/Abrahamkaikobad/ecommerce-customer-behavior-analysis/blob/none/dic_AbrahamKaikobad.pdf)
 
 ## Key Insights
 
